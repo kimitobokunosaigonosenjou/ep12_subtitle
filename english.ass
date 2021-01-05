@@ -1,0 +1,250 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.62,0:00:20.70,Default,,0,0,0,,A droid soldier from the Empire?!\NWhat's it doing here?!
+Dialogue: 0,0:00:23.58,0:00:29.08,Default,,0,0,0,,An unwanted guest...\NNo matter, go after Sisbell!
+Dialogue: 0,0:00:29.08,0:00:30.45,Default,,0,0,0,,Stop!
+Dialogue: 0,0:00:32.62,0:00:35.08,Default,,0,0,0,,You didn't think I'd let you go?
+Dialogue: 0,0:00:41.54,0:00:47.20,Default,,0,0,0,,Sisbell can't escape, and you\Ncan't accomplish anything alone.
+Dialogue: 0,0:00:47.20,0:00:49.45,Default,,0,0,0,,She's from the royal family.
+Dialogue: 0,0:00:49.45,0:00:54.12,Default,,0,0,0,,Don't you think she has a good reason\Nif she's talking to an Imperial soldier?
+Dialogue: 0,0:00:54.12,0:00:56.37,Default,,0,0,0,,Her reasoning doesn't matter.
+Dialogue: 0,0:00:56.37,0:01:02.41,Default,,0,0,0,,As a princess, just talking to\Nthe likes of you is against the rules.
+Dialogue: 0,0:01:02.41,0:01:04.99,Default,,0,0,0,,It's a serious crime that would dethrone her.
+Dialogue: 0,0:01:08.16,0:01:12.45,Default,,0,0,0,,It's also a crime to make\Nso much noise at night.
+Dialogue: 0,0:01:12.45,0:01:15.87,Default,,0,0,0,,Stop disturbing the neighbors!
+Dialogue: 0,0:01:16.49,0:01:20.99,Default,,0,0,0,,{\fs50\bord0\fnOpen Sans\pos(641,264)}Beginning: Rise of a New World\NTriggered by the Two
+Dialogue: 0,0:01:23.04,0:01:24.29,Default,,0,0,0,,Jhin?!
+Dialogue: 0,0:01:24.29,0:01:29.54,Default,,0,0,0,,I was wondering what was up with you,\Nbut you got tangled up with some thugs?
+Dialogue: 0,0:01:29.54,0:01:32.83,Default,,0,0,0,,Hey, he's that guy!\NThat demon that kicked me!
+Dialogue: 0,0:01:32.83,0:01:36.54,Default,,0,0,0,,Well hello, Captain. Doing well, I see?
+Dialogue: 0,0:01:36.54,0:01:38.41,Default,,0,0,0,,Why are you here?
+Dialogue: 0,0:01:38.41,0:01:44.83,Default,,0,0,0,,Unfortunately, I have a more pressing matter\Nand don't have time for chitchat.
+Dialogue: 0,0:01:47.49,0:01:52.29,Default,,0,0,0,,Object?! Why has the Empire's\Nexperimental weapon been deployed?!
+Dialogue: 0,0:01:52.29,0:01:55.91,Default,,0,0,0,,Astral energy detected. Initiate screening.
+Dialogue: 0,0:01:55.91,0:02:01.95,Default,,0,0,0,,One, two, three, four, five...
+Dialogue: 0,0:02:01.95,0:02:04.66,Default,,0,0,0,,Six astral power readings.
+Dialogue: 0,0:02:05.70,0:02:08.91,Default,,0,0,0,,Iska, it detected Captain's astral energy!
+Dialogue: 0,0:02:08.91,0:02:09.83,Default,,0,0,0,,Shoot!
+Dialogue: 0,0:02:09.83,0:02:15.62,Default,,0,0,0,,Initiating captivity of priority target,\NPure Blood 9LC.
+Dialogue: 0,0:02:19.04,0:02:22.87,Default,,0,0,0,,Ignore it! We're only after Princess Sisbell!
+Dialogue: 0,0:02:22.87,0:02:25.74,Default,,0,0,0,,Initiating elimination of obstacles.
+Dialogue: 0,0:02:54.45,0:03:00.16,Default,,0,0,0,,It seems we have multiple unexpected guests,\Nbut this works in our favor.
+Dialogue: 0,0:03:06.20,0:03:08.74,Default,,0,0,0,,No, you won't.
+Dialogue: 0,0:03:08.74,0:03:10.83,Default,,0,0,0,,I think there's been a misunderstanding.
+Dialogue: 0,0:03:10.83,0:03:14.29,Default,,0,0,0,,We're only here to take\Nthe Sovereignty's criminal back.
+Dialogue: 0,0:03:14.29,0:03:16.79,Default,,0,0,0,,Why would the Empire try to protect her?
+Dialogue: 0,0:03:16.79,0:03:22.83,Default,,0,0,0,,I don't care about that. You kicked\Nour boss down into the vortex.
+Dialogue: 0,0:03:22.83,0:03:27.29,Default,,0,0,0,,That's why I want to pummel you into the ground.
+Dialogue: 0,0:03:27.29,0:03:28.83,Default,,0,0,0,,Do it.
+Dialogue: 0,0:03:34.33,0:03:36.54,Default,,0,0,0,,No more Mr. Nice Guy, huh?!
+Dialogue: 0,0:03:38.37,0:03:43.87,Default,,0,0,0,,Are you serious?! This isn't a battlefield.\NThis nation is completely unrelated!
+Dialogue: 0,0:03:43.87,0:03:49.45,Default,,0,0,0,,Not to worry. Everything will\Nbe blamed on the losing side.
+Dialogue: 0,0:03:51.74,0:03:54.91,Default,,0,0,0,,Take comfort in that and die.
+Dialogue: 0,0:04:05.04,0:04:06.33,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:04:06.33,0:04:07.79,Default,,0,0,0,,Iska?!
+Dialogue: 0,0:04:07.79,0:04:12.20,Default,,0,0,0,,Iska, we need to stop it\Nbefore it sends the data!
+Dialogue: 0,0:04:12.20,0:04:14.24,Default,,0,0,0,,Buy me some time!
+Dialogue: 0,0:04:14.24,0:04:15.83,Default,,0,0,0,,Roger that!
+Dialogue: 0,0:04:20.54,0:04:22.08,Default,,0,0,0,,It's hard!
+Dialogue: 0,0:04:48.74,0:04:50.99,Default,,0,0,0,,I'm going to destroy that weapon. Stay back.
+Dialogue: 0,0:04:50.99,0:04:53.70,Default,,0,0,0,,Wh-Why are you helping me?
+Dialogue: 0,0:04:53.70,0:04:57.58,Default,,0,0,0,,You said you couldn't become my ally!
+Dialogue: 0,0:04:57.58,0:05:02.08,Default,,0,0,0,,I have my own reasons.\NThere's a lot that I haven't told you.
+Dialogue: 0,0:05:02.08,0:05:06.87,Default,,0,0,0,,But at the very least, I don't plan on\Ngiving you up to it or the Masked Lord!
+Dialogue: 0,0:05:14.79,0:05:17.83,Default,,0,0,0,,Iska, this isn't fair...
+Dialogue: 0,0:05:17.83,0:05:24.16,Default,,0,0,0,,If you show me such niceness, I...
+Dialogue: 0,0:05:25.16,0:05:26.04,Default,,0,0,0,,Nene!
+Dialogue: 0,0:05:26.04,0:05:29.29,Default,,0,0,0,,The coordinates are entered! I'm ready!
+Dialogue: 0,0:05:29.29,0:05:31.37,Default,,0,0,0,,Piercing Shot!
+Dialogue: 0,0:05:45.83,0:05:48.37,Default,,0,0,0,,Did Nene cause that explosion?
+Dialogue: 0,0:05:48.37,0:05:51.29,Default,,0,0,0,,Yeah. We need to hurry up and join them.
+Dialogue: 0,0:05:51.29,0:05:55.83,Default,,0,0,0,,I agree, except {\i1}I{\i0} would be the one going.
+Dialogue: 0,0:06:03.37,0:06:06.12,Default,,0,0,0,,Did you assume I can't teleport objects?
+Dialogue: 0,0:06:10.99,0:06:14.12,Default,,0,0,0,,You won't be able to use\Nyour sniper rifle anymore.
+Dialogue: 0,0:06:14.12,0:06:16.12,Default,,0,0,0,,I don't need it!
+Dialogue: 0,0:06:16.12,0:06:17.95,Default,,0,0,0,,What?!
+Dialogue: 0,0:06:26.91,0:06:32.91,Default,,0,0,0,,I admire your quick thinking,\Nbut you're unlucky.
+Dialogue: 0,0:06:32.91,0:06:40.33,Default,,0,0,0,,I lost the evidence to prosecute Sisbell,\Nbut it looks like the stars are on my side.
+Dialogue: 0,0:06:41.99,0:06:43.62,Default,,0,0,0,,Jhin?!
+Dialogue: 0,0:06:57.87,0:06:59.04,Default,,0,0,0,,Gasoline!
+Dialogue: 0,0:06:59.04,0:07:03.58,Default,,0,0,0,,One hundred years ago, our great founder\Nturned the Empire into a sea of flames.
+Dialogue: 0,0:07:03.58,0:07:05.54,Default,,0,0,0,,I'm recreating that moment.
+Dialogue: 0,0:07:05.54,0:07:10.66,Default,,0,0,0,,Know that it is the avenging fire\Nby us astral spirits!
+Dialogue: 0,0:07:15.16,0:07:20.70,Default,,0,0,0,,What's going on?\NThe fire astral art isn't working...
+Dialogue: 0,0:07:20.70,0:07:23.74,Default,,0,0,0,,No, wait. Where's this wind coming from?
+Dialogue: 0,0:07:31.04,0:07:32.45,Default,,0,0,0,,I see.
+Dialogue: 0,0:07:32.45,0:07:38.58,Default,,0,0,0,,This wind... So an Imperial soldier\Ngained power from the vortex.
+Dialogue: 0,0:07:38.58,0:07:41.54,Default,,0,0,0,,An interesting research subject indeed.
+Dialogue: 0,0:07:42.74,0:07:48.45,Default,,0,0,0,,Shut it. Don't violate our boss\Nwith your disgusting words.
+Dialogue: 0,0:07:50.79,0:07:57.12,Default,,0,0,0,,Oh, well. It's time to call it quits.\NIt's not worth the pursuit anymore.
+Dialogue: 0,0:07:57.12,0:08:01.54,Default,,0,0,0,,It was a fun evening.\NI'll return the favor soon.
+Dialogue: 0,0:08:07.66,0:08:10.33,Default,,0,0,0,,Y-You did it?
+Dialogue: 0,0:08:10.33,0:08:13.20,Default,,0,0,0,,No, something's wrong.
+Dialogue: 0,0:08:13.20,0:08:14.83,Default,,0,0,0,,Reject.
+Dialogue: 0,0:08:16.08,0:08:19.12,Default,,0,0,0,,Shutting off primary energy supply.
+Dialogue: 0,0:08:22.45,0:08:25.58,Default,,0,0,0,,Switching to secondary energy.
+Dialogue: 0,0:08:27.79,0:08:30.20,Default,,0,0,0,,Wh-What is this weapon?!
+Dialogue: 0,0:08:30.20,0:08:32.24,Default,,0,0,0,,This is different from the Object I know!
+Dialogue: 0,0:08:32.24,0:08:36.45,Default,,0,0,0,,Iska, this light is weird! It's too strong!
+Dialogue: 0,0:08:36.45,0:08:40.87,Default,,0,0,0,,It's not electrical or from fuel.\NWhat exactly is this energy?!
+Dialogue: 0,0:08:42.54,0:08:44.79,Default,,0,0,0,,It's the astral energy's light!
+Dialogue: 0,0:08:44.79,0:08:46.49,Default,,0,0,0,,What?!
+Dialogue: 0,0:08:46.49,0:08:51.20,Default,,0,0,0,,Object... What's hidden inside of you?!
+Dialogue: 0,0:08:54.41,0:08:55.95,Default,,0,0,0,,Nene, take cover!
+Dialogue: 0,0:08:57.08,0:09:00.20,Default,,0,0,0,,Life Form Integra.
+Dialogue: 0,0:09:08.24,0:09:10.20,Default,,0,0,0,,Wh-What was that explosion?!
+Dialogue: 0,0:09:10.20,0:09:12.41,Default,,0,0,0,,It's coming from where Iska is.
+Dialogue: 0,0:09:17.41,0:09:19.62,Default,,0,0,0,,Reloading energy.
+Dialogue: 0,0:09:20.79,0:09:23.74,Default,,0,0,0,,Directing to the core.
+Dialogue: 0,0:09:23.74,0:09:25.74,Default,,0,0,0,,I-It can fire repeatedly?!
+Dialogue: 0,0:09:25.74,0:09:26.83,Default,,0,0,0,,I won't let it!
+Dialogue: 0,0:09:26.83,0:09:29.20,Default,,0,0,0,,Piercing Shot!
+Dialogue: 0,0:09:30.33,0:09:32.49,Default,,0,0,0,,Unlocking all functions.
+Dialogue: 0,0:09:39.95,0:09:41.45,Default,,0,0,0,,No way...
+Dialogue: 0,0:09:41.45,0:09:46.70,Default,,0,0,0,,Nene, regroup with Jhin! The fire will be\Ndisastrous if it continues to spread!
+Dialogue: 0,0:09:46.70,0:09:48.58,Default,,0,0,0,,You need to evacuate\Nthe people nearby quickly!
+Dialogue: 0,0:09:48.58,0:09:50.95,Default,,0,0,0,,What? But what about you?
+Dialogue: 0,0:09:50.95,0:09:52.87,Default,,0,0,0,,I'm going to stop it.
+Dialogue: 0,0:09:54.37,0:09:56.54,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:56.54,0:09:59.45,Default,,0,0,0,,Don't die, Iska!
+Dialogue: 0,0:10:01.99,0:10:03.95,Default,,0,0,0,,What exactly are you...?
+Dialogue: 0,0:10:15.54,0:10:21.37,Default,,0,0,0,,He's there fighting...\NSisbell, now's the time to believe!
+Dialogue: 0,0:10:21.37,0:10:23.33,Default,,0,0,0,,Ready to launch.
+Dialogue: 0,0:10:24.70,0:10:28.79,Default,,0,0,0,,Light! Replay the star's past!
+Dialogue: 0,0:10:38.29,0:10:40.12,Default,,0,0,0,,Iska, now!
+Dialogue: 0,0:10:40.12,0:10:40.99,Default,,0,0,0,,Sisbell?!
+Dialogue: 0,0:10:40.99,0:10:43.54,Default,,0,0,0,,It's replaying a sandstorm\Nthat occurred in this location.
+Dialogue: 0,0:10:43.54,0:10:45.29,Default,,0,0,0,,But it's just a smokescreen!
+Dialogue: 0,0:10:45.29,0:10:46.99,Default,,0,0,0,,That's enough!
+Dialogue: 0,0:11:07.16,0:11:08.70,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:11:08.70,0:11:09.79,Default,,0,0,0,,Of course.
+Dialogue: 0,0:11:09.79,0:11:12.12,Default,,0,0,0,,Operation failure.
+Dialogue: 0,0:11:12.12,0:11:15.95,Default,,0,0,0,,Ejecting the core, Beast of Catalysc.
+Dialogue: 0,0:11:15.95,0:11:17.54,Default,,0,0,0,,Get back, Sisbell!
+Dialogue: 0,0:11:23.24,0:11:26.70,Default,,0,0,0,,Iska!
+Dialogue: 0,0:11:33.37,0:11:35.20,Default,,0,0,0,,What is that...?
+Dialogue: 0,0:11:41.62,0:11:44.91,Default,,0,0,0,,Embers are reaching this far?!
+Dialogue: 0,0:11:44.91,0:11:46.54,Default,,0,0,0,,This is bad, Captain!
+Dialogue: 0,0:11:46.54,0:11:49.91,Default,,0,0,0,,Hurry! Evacuating the people comes first!
+Dialogue: 0,0:11:51.45,0:11:52.83,Default,,0,0,0,,Iska...
+Dialogue: 0,0:11:53.95,0:11:55.49,Default,,0,0,0,,Sisbell!
+Dialogue: 0,0:12:17.70,0:12:22.83,Default,,0,0,0,,I won't... end here...!
+Dialogue: 0,0:12:24.49,0:12:27.58,Default,,0,0,0,,Ice Calamity: Flooding Snow Lights!
+Dialogue: 0,0:12:35.54,0:12:37.24,Default,,0,0,0,,Alice?!
+Dialogue: 0,0:12:39.33,0:12:41.83,Default,,0,0,0,,What are you doing here?!
+Dialogue: 0,0:12:41.83,0:12:43.83,Default,,0,0,0,,Right back at you.
+Dialogue: 0,0:12:45.49,0:12:47.95,Default,,0,0,0,,Give my sister back!
+Dialogue: 0,0:12:55.24,0:12:56.49,Default,,0,0,0,,Vines!
+Dialogue: 0,0:13:01.58,0:13:03.20,Default,,0,0,0,,Icicles!
+Dialogue: 0,0:13:05.41,0:13:06.41,Default,,0,0,0,,Iska!
+Dialogue: 0,0:13:06.41,0:13:07.62,Default,,0,0,0,,Right!
+Dialogue: 0,0:13:16.74,0:13:18.58,Default,,0,0,0,,No way!
+Dialogue: 0,0:13:24.66,0:13:27.79,Default,,0,0,0,,What in the world are you?
+Dialogue: 0,0:13:30.91,0:13:32.54,Default,,0,0,0,,An astral spirit?
+Dialogue: 0,0:13:32.54,0:13:36.83,Default,,0,0,0,,If that's the case, what does the Empire\Nplan to do with this weapon?!
+Dialogue: 0,0:13:50.04,0:13:51.54,Default,,0,0,0,,Alice, your blossom!
+Dialogue: 0,0:13:51.54,0:13:55.33,Default,,0,0,0,,Wh-What are you saying, Iska? That's my--
+Dialogue: 0,0:13:56.83,0:13:58.20,Default,,0,0,0,,Now!
+Dialogue: 0,0:14:02.12,0:14:04.04,Default,,0,0,0,,Bloom forth!
+Dialogue: 0,0:14:11.99,0:14:14.62,Default,,0,0,0,,So lu reinen xel.
+Dialogue: 0,0:14:14.62,0:14:16.79,Default,,0,0,0,,What language is that?
+Dialogue: 0,0:14:16.79,0:14:18.29,Default,,0,0,0,,An astral spirit's?
+Dialogue: 0,0:14:18.29,0:14:22.20,Default,,0,0,0,,Elmei shel feo mielles.
+Dialogue: 0,0:14:37.20,0:14:40.95,Default,,0,0,0,,How much destruction is it going to cause?!
+Dialogue: 0,0:14:40.95,0:14:49.54,Default,,0,0,0,,Iska, I want to fight you,\Nbut now isn't the time.
+Dialogue: 0,0:14:49.54,0:14:54.83,Default,,0,0,0,,This kind of destruction is meaningless.\NThe future I strive for isn't this.
+Dialogue: 0,0:14:54.83,0:14:57.83,Default,,0,0,0,,Neither is the future I strive for.
+Dialogue: 0,0:14:57.83,0:15:00.99,Default,,0,0,0,,Just for now, we'll join hands.
+Dialogue: 0,0:15:07.74,0:15:09.37,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:15:10.58,0:15:15.41,Default,,0,0,0,,Ris sia sohia ahz cia r-teo.
+Dialogue: 0,0:15:18.08,0:15:19.66,Default,,0,0,0,,Pierce through!
+Dialogue: 0,0:15:26.74,0:15:28.12,Default,,0,0,0,,Wall!
+Dialogue: 0,0:15:34.74,0:15:36.49,Default,,0,0,0,,Ice Calamity...
+Dialogue: 0,0:15:36.49,0:15:38.04,Default,,0,0,0,,Stars...
+Dialogue: 0,0:15:40.20,0:15:44.12,Default,,0,0,0,,Ez xiss clar lefmihas xel.
+Dialogue: 0,0:15:46.79,0:15:49.49,Default,,0,0,0,,Endless Fan and Sword Dance!
+Dialogue: 0,0:15:49.49,0:15:51.16,Default,,0,0,0,,Awaken!
+Dialogue: 0,0:16:16.20,0:16:17.87,Default,,0,0,0,,It's over!
+Dialogue: 0,0:17:02.99,0:17:06.45,Default,,0,0,0,,We lost the Object's signal...
+Dialogue: 0,0:17:06.45,0:17:08.83,Default,,0,0,0,,An unexpected setback.
+Dialogue: 0,0:17:08.83,0:17:13.95,Default,,0,0,0,,It seems we need to watch out for\Nthe Successor of the Black Steel.
+Dialogue: 0,0:17:13.95,0:17:18.58,Default,,0,0,0,,We'll move onto the next stage.
+Dialogue: 0,0:17:30.49,0:17:32.08,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:17:32.08,0:17:33.49,Default,,0,0,0,,Huh?
+Dialogue: 0,0:17:34.99,0:17:38.95,Default,,0,0,0,,Ugh, no, this isn't right!
+Dialogue: 0,0:17:38.95,0:17:44.37,Default,,0,0,0,,What am I saying? I don't want to\Nfight {\i1}with{\i0} you, I want to {\i1}fight{\i0} you!
+Dialogue: 0,0:17:44.37,0:17:45.99,Default,,0,0,0,,You make it sound so bad.
+Dialogue: 0,0:17:45.99,0:17:51.20,Default,,0,0,0,,But it's the truth! As a rival,\Nwe really {\i1}are{\i0} going to settle this!
+Dialogue: 0,0:17:51.20,0:17:53.45,Default,,0,0,0,,Sister...?
+Dialogue: 0,0:17:53.45,0:17:56.54,Default,,0,0,0,,Sisbell! You're awake.
+Dialogue: 0,0:18:02.41,0:18:03.66,Default,,0,0,0,,Sister.
+Dialogue: 0,0:18:03.66,0:18:05.08,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:18:05.08,0:18:07.45,Default,,0,0,0,,You know Iska, don't you?
+Dialogue: 0,0:18:07.45,0:18:09.20,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:09.20,0:18:11.54,Default,,0,0,0,,I've been wondering about it.
+Dialogue: 0,0:18:11.54,0:18:15.41,Default,,0,0,0,,What is your relationship with him?
+Dialogue: 0,0:18:21.58,0:18:22.91,Default,,0,0,0,,Well, actually--
+Dialogue: 0,0:18:22.91,0:18:25.91,Default,,0,0,0,,No, I don't know him at all!
+Dialogue: 0,0:18:25.91,0:18:27.24,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:18:27.24,0:18:30.16,Default,,0,0,0,,Sister, it's too late to lie about it!
+Dialogue: 0,0:18:30.16,0:18:33.12,Default,,0,0,0,,It's the truth. Right?
+Dialogue: 0,0:18:36.91,0:18:42.04,Default,,0,0,0,,R-Right! I have no clue who she is, either.
+Dialogue: 0,0:18:44.95,0:18:50.33,Default,,0,0,0,,I see. So you and Iska aren't acquaintances.
+Dialogue: 0,0:18:50.33,0:18:51.91,Default,,0,0,0,,Right.
+Dialogue: 0,0:18:51.91,0:18:53.29,Default,,0,0,0,,That's good.
+Dialogue: 0,0:18:53.29,0:18:54.54,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:56.20,0:18:58.87,Default,,0,0,0,,I've come to a conclusion!
+Dialogue: 0,0:18:58.87,0:19:06.37,Default,,0,0,0,,Iska! You're the dream knight for me,\NSisbell Lou Nebulis IX, the next queen!
+Dialogue: 0,0:19:06.37,0:19:10.62,Default,,0,0,0,,Wh-Wh-Wh-Wh-Wh-What are you saying, Sisbell?!
+Dialogue: 0,0:19:10.62,0:19:13.95,Default,,0,0,0,,This does not concern you, Sister.
+Dialogue: 0,0:19:13.95,0:19:16.79,Default,,0,0,0,,She can't do this! Right?!
+Dialogue: 0,0:19:16.79,0:19:20.20,Default,,0,0,0,,Huh? Um, well...
+Dialogue: 0,0:19:20.20,0:19:22.20,Default,,0,0,0,,Iska!
+Dialogue: 0,0:19:22.20,0:19:25.24,Default,,0,0,0,,Iska, where are you?!
+Dialogue: 0,0:19:25.24,0:19:30.29,Default,,0,0,0,,Sorry, my friends are calling me,\Nso I'm gonna go...!
+Dialogue: 0,0:19:30.29,0:19:32.70,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:19:32.70,0:19:38.37,Default,,0,0,0,,Iska! I will not give up! I give you my word!
+Dialogue: 0,0:20:00.95,0:20:06.74,Default,,0,0,0,,So the Eight Great Apostles' experimental\Nweapon yielded an unexpected result.
+Dialogue: 0,0:20:06.74,0:20:09.41,Default,,0,0,0,,Way to go, Issy.
+Dialogue: 0,0:20:09.41,0:20:13.49,Default,,0,0,0,,Hmph. Anyway, where is the Emperor?
+Dialogue: 0,0:20:13.49,0:20:18.74,Default,,0,0,0,,It's been a while since he set out.\NHe's probably enjoying his time.
+Dialogue: 0,0:20:20.16,0:20:25.33,Default,,0,0,0,,Now... It won't be much longer\Nuntil they find out about that...
+Dialogue: 0,0:20:35.41,0:20:40.08,Default,,0,0,0,,It's been a while since I felt this tranquility.
+Dialogue: 0,0:20:40.08,0:20:47.49,Default,,0,0,0,,Imperial soldier... I've grown bored\Nof this world, but you intrigue me.
+Dialogue: 0,0:20:53.70,0:20:55.62,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:20:58.08,0:21:03.16,Default,,0,0,0,,This energy... I didn't think\Nyou'd come see me here.
+Dialogue: 0,0:21:03.16,0:21:07.58,Default,,0,0,0,,It's you, isn't it, Emperor Yunmelngen!
+Dialogue: 0,0:21:07.58,0:21:12.95,Default,,0,0,0,,Hey. I have something fun to tell you.
+Dialogue: 0,0:21:21.62,0:21:24.58,Default,,0,0,0,,Welcome home, Uncle.
+Dialogue: 0,0:21:24.58,0:21:29.91,Default,,0,0,0,,Thank you, Kissing.\NIt was quite a pleasant evening.
+Dialogue: 0,0:21:29.91,0:21:31.58,Default,,0,0,0,,What about me?
+Dialogue: 0,0:21:31.58,0:21:36.58,Default,,0,0,0,,It'll be good timing.\NLet's prepare you for the election.
+Dialogue: 0,0:21:41.04,0:21:44.20,Default,,0,0,0,,You called for me, My Queen?
+Dialogue: 0,0:21:44.20,0:21:48.87,Default,,0,0,0,,I apologize for summoning you here.\NI have a question for you.
+Dialogue: 0,0:21:48.87,0:21:50.70,Default,,0,0,0,,Of course.
+Dialogue: 0,0:21:50.70,0:21:55.99,Default,,0,0,0,,It was you who leaked intel about\Nwhere Sisbell was headed, am I right?
+Dialogue: 0,0:21:59.45,0:22:06.08,Default,,0,0,0,,And another thing. Are you the real Elletear?
+Dialogue: 0,0:22:13.12,0:22:14.74,Default,,0,0,0,,Lady Alice...
+Dialogue: 0,0:22:28.37,0:22:32.91,Default,,0,0,0,,I wonder why we keep meeting\Nin situations like this?
+Dialogue: 0,0:22:32.91,0:22:35.37,Default,,0,0,0,,I'd ask the same thing.
+Dialogue: 0,0:22:35.37,0:22:40.33,Default,,0,0,0,,Anyway, pretend you don't know me\Nin front of people from the Sovereignty.
+Dialogue: 0,0:22:40.33,0:22:43.20,Default,,0,0,0,,Even in front of my little sister.
+Dialogue: 0,0:22:43.20,0:22:44.62,Default,,0,0,0,,Okay.
+Dialogue: 0,0:22:45.87,0:22:50.95,Default,,0,0,0,,This is actually very exciting.\NA secret just between the two of us.
+Dialogue: 0,0:22:50.95,0:22:52.83,Default,,0,0,0,,Why are you enjoying this?
+Dialogue: 0,0:22:52.83,0:22:56.16,Default,,0,0,0,,I-I'm not enjoying it!
+Dialogue: 0,0:23:19.04,0:23:22.16,Default,,0,0,0,,Okay, then.
+Dialogue: 0,0:23:22.16,0:23:23.91,Default,,0,0,0,,See you when I do.
+Dialogue: 0,0:23:45.06,0:23:49.94,Default,,0,0,0,,{\fad(500,0)\bord0.25\an8\pos(620,148)\c&H151618&}Our Last Crusade or the Rise of a New World
